@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Just another repository. Hi my name is Dennis Hamilton and I like to watch football on Sundays. I also like to play video games.
